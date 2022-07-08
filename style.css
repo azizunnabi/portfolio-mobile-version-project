@@ -1,0 +1,333 @@
+.header-background { 
+
+  position: absolute;
+  width: 475px;
+  height: 916px;
+  left: 0px;
+  top: 1px;
+
+  /* Neutrals/N0 */
+
+  background-color: #fff;
+  }
+.sec3rlink23{
+  list-style-type:none;
+  }
+.dkk{
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  left: 12px;
+  top: calc(50% - 48px/2 - 0.36px);
+}
+.dd{
+  display: inline;
+}
+.limage{
+  display: inline;
+}
+.dk{
+  margin-top:20px;
+}
+.cars{
+  margin-left:130px;
+  border: 0px;
+}
+.m-logo {
+
+  padding-top: 10px;
+  padding-left: 10px;
+  text-decoration: none;
+  width: 76px;
+  height: 20px;
+  font-family: "Puffin";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+
+  /* identical to box height, or 111% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  /* Primary/B400 */
+
+  color: #6070ff;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  }
+
+a.inline {
+
+  width: bold;
+  padding-left: 20px;
+  text-decoration: none;
+  list-style-type: none;
+  padding-right:0px;
+  float: right;
+  color:#6070ff;
+  }
+
+.link-right {
+
+  margin-top: -30px;
+  text-decoration: none;
+  list-style-type: none;
+  float: right;
+  }
+
+.section1 {
+
+  width: 375px;
+  padding-top: 10px;
+  }
+
+.section2 {
+
+  padding-left: 10px;
+  width: 920px;
+  height: 122px;
+  }
+
+  /* Header / 1 */
+
+.h2 {
+
+  float: center;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 60px;
+
+  /* or 125% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.37px;
+
+  /* Theme 1 / Neutrals 1 */
+
+  color: #091E42;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  }
+
+.imalex {
+
+  width: 375px;
+  padding-left: 0px;
+  }
+
+.sec4h4 {
+
+  width: 375px;
+  height: 146px;
+
+  /* Body / 2 */
+
+  font-family : 'Poppins';
+  font-style: normal;
+  font-weight : 400;
+  font-size : 16px;
+  line-height : 24px;
+
+  /* or 150% */
+
+  /* Neutrals/N600 */
+
+  color: #344563;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  }
+
+.nav {
+  width: 375px;
+  }
+
+.section1 {
+  display: inline;
+  padding-right: 60px;
+  width: 0px;
+  }  
+
+.section2 {
+  padding-top: 50px;
+  }
+  
+h2 {
+
+  width: 375px;
+  padding-left: 0px;
+  }
+
+.section4h4 {
+  margin-top: -80px;
+  }
+
+.sec2image {
+
+  padding-right: 40px;
+  padding-top: 25px;
+  margin-top: -30px;
+  }
+
+h5 {
+
+  color:#6070FF;
+  margin-top: -20px;
+  }
+
+.image6 {
+
+  padding-left: 10px;
+  width: 30px;
+  }
+
+.ets {
+
+  color:#6070FF;
+  margin-top: -80px;
+  padding-top: 125px;
+  }
+
+.image3 {
+  padding-left: 50px;
+  width: 80px;
+  margin-top: 40px;
+  
+  }
+
+.image7 {
+
+  padding-left: 50px;
+  width: 30px;
+  }
+
+.image5{
+	
+  padding-left: 50px;
+  width:30px;
+  }
+
+
+  /* Next project Set up started */
+.imagesec4{
+  Width: 295px;
+  Height: 220px;
+  Top: 16px;
+  Left: 16px;
+  Radius: 8px;
+  border-radius: 8px;
+
+/* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+
+  }
+.section3{
+  padding-top:300px;
+  }
+  .sec3rlink2{
+  list-style-type: none;
+  text-decoration: none;
+/* Caption / 1 - Bolder */
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+/* identical to box height, or 123% */
+
+
+/* Neutrals/N600 */
+
+  color: #344563;
+
+
+/* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  }
+.sec3p1{
+  margin-top: 0px;
+  width: 295px;
+  height: 76px;
+
+/* Body / 3 */
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+/* or 160% */
+
+
+/* Neutrals/N600 */
+
+  color: #344563;
+
+
+/* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  }
+.sec3rlink3{
+  text-decoration: none;
+  width: 55px;
+  height: 16px;
+  }
+.sec3rlink4{
+  margin-top:30px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+/* identical to box height, or 141% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.03em;
+
+/* Primary/B500 */
+
+  color: #396DF2;
+
+
+/* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  }
+.section4{
+  margin-top:1200px;
+  }
+.section5{
+  margin-top:70px;
+  }
+  
